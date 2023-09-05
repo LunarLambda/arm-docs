@@ -4,7 +4,7 @@
 
 Covers the ARM architecture itself and includes comprehensive descriptions of all instructions.
 
-- [ARMv6](https://developer.arm.com/documentation/ddi0100/latest) ([PDF](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a?token=)) <sup>GBA, NDS, 3DS</sup>
+- [ARMv4 - ARMv6](https://developer.arm.com/documentation/ddi0100/latest) ([PDF](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a?token=)) <sup>GBA, NDS, 3DS</sup>
 
 ## Technical Reference Manuals
 
