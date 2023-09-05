@@ -1,25 +1,20 @@
-# ARM Documentation
+# ARM Documentation for Nintendo Homebrew
 
 ## Architecture Reference Manuals
 
-- [ARMv6](https://developer.arm.com/documentation/ddi0100/latest)
-- [ARMv7-A](https://developer.arm.com/documentation/ddi0406/latest)
-- [ARMv9-A](https://developer.arm.com/documentation/ddi0487/latest)
+Covers the ARM architecture itself and includes comprehensive descriptions of all instructions.
 
-## Architecture Reference Manual Supplements
-
-- [ARMv6 Thumb-2](https://developer.arm.com/documentation/ddi0308/latest)
+- [ARMv6](https://developer.arm.com/documentation/ddi0100/latest) ([PDF](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a?token=)) <sup>GBA, NDS, 3DS</sup>
 
 ## Technical Reference Manuals
 
-- [ARM7TDMI](https://developer.arm.com/documentation/ddi0210/latest)
-- [ARM946E-S](https://developer.arm.com/documentation/ddi0201/latest)
-- [ARM11 MPCore](https://developer.arm.com/documentation/ddi0360/latest)
+Cover the actual CPUs used in the consoles and includes information on how to control the processor.
 
-## User Guides
-
-- [ARMASM](https://developer.arm.com/documentation/100069/latest)
+- [ARM7TDMI](https://developer.arm.com/documentation/ddi0210/latest) ([PDF](https://documentation-service.arm.com/static/5f4786a179ff4c392c0ff819?token=)) <sup>GBA, NDS</sup>
+- [ARM946E-S](https://developer.arm.com/documentation/ddi0201/latest) ([PDF](https://documentation-service.arm.com/static/5e8e3ee588295d1e18d3aa82?token=)) <sup>NDS, 3DS</sup>
+- [ARM11 MPCore](https://developer.arm.com/documentation/ddi0360/latest) ([PDF](https://documentation-service.arm.com/static/5e8e1e0388295d1e18d368b2?token=)) <sup>3DS</sup>
 
 ## Other
 
-- [Application Binary Interface](https://github.com/ARM-software/abi-aa)
+- [Unified Assembler Syntax (UAL)](./ual.md)
+- [Application Binary Interface (ABI)](https://github.com/ARM-software/abi-aa#abi-for-the-arm-32-bit-architecture)
