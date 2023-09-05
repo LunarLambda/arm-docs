@@ -8,7 +8,7 @@ Covers the ARM architecture itself and includes comprehensive descriptions of al
 
 ## Technical Reference Manuals
 
-Cover the actual CPUs used in the consoles and includes information on how to control the processor.
+Covers the processors used in the consoles and includes information on how to interact with the hardware.
 
 - [ARM7TDMI](https://developer.arm.com/documentation/ddi0210/latest) ([PDF](https://documentation-service.arm.com/static/5f4786a179ff4c392c0ff819?token=)) <sup>GBA, NDS</sup>
 - [ARM946E-S](https://developer.arm.com/documentation/ddi0201/latest) ([PDF](https://documentation-service.arm.com/static/5e8e3ee588295d1e18d3aa82?token=)) <sup>NDS, 3DS</sup>
